@@ -19,16 +19,6 @@ To stop the server open the same terminal and press CTRL-C. After that run
 ```
 docker stop gentle
 ```
-
-For instructions on how to use Text2Video check out this [tutorial](https://www.youtube.com/watch?v=o5VlCaXgN6w).
-
-## Installation
-
-For detailed instructions on how to install Text2Video check out this [tutorial](https://youtu.be/KutuoBaM30w)
-
-This has only been tested on Windows 10.
-
-```
 git clone https://github.com/joshchen984/Text2Video.git
 cd Text2Video
 ./install.sh
@@ -38,11 +28,5 @@ Must install [ffmpeg](https://www.ffmpeg.org/download.html#build-windows) and ad
 
 ## Requirements
 
-Python 3.6 or up
+Python 3.8 or up
 
-Docker
-[How to install](https://www.youtube.com/watch?v=5nX8U8Fz5S0)
-
-## Acknowledgments
-
-This was inspired by Carykh's [Youtube Video Creator](https://www.youtube.com/watch?v=Jr9sptoLvJU&t=64s).
