@@ -19,9 +19,6 @@ To stop the server open the same terminal and press CTRL-C. After that run
 ```
 docker stop gentle
 ```
-git clone https://github.com/joshchen984/Text2Video.git
-cd Text2Video
-./install.sh
 ```
 
 Must install [ffmpeg](https://www.ffmpeg.org/download.html#build-windows) and add it to PATH
